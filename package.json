@@ -26,6 +26,7 @@
     "rxjs": "^5.0.1"
   },
   "dependencies": {
+    "test": "sc070896/test#master",
     "multi-select-dropdown": "0.0.2"
   }
 }
