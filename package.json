@@ -1,0 +1,31 @@
+{
+  "name": "angular-multi-single-dropdown",
+  "version": "2.0.6",
+  "description": "Angular multiselect-singleSelect dropdown for web applications. Easy to integrate and use. It can be bind to any custom data source.",
+  "main": "bundles/amazing.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "angular4"
+  ],
+  "author": "Santosh Choudhary",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sc070896/multi-select-drop-down.git"
+  },
+  "homepage": "https://github.com/sc070896/multi-select-drop-down",
+  "bugs": {
+    "url": "https://github.com/sc070896/multi-select-drop-down/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0",
+    "rxjs": "^5.0.1"
+  },
+  "dependencies": {
+    "multi-select-dropdown": "0.0.2"
+  }
+}
