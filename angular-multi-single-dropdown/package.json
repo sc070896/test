@@ -31,6 +31,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "multi-select-dropdown": "sc070896/test#master"
     "multi-select-dropdown": "0.0.2"
   },
   "deprecated": false,
