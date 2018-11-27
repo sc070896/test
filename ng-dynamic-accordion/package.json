@@ -1,0 +1,57 @@
+{
+  "_from": "ng-dynamic-accordion",
+  "_id": "ng-dynamic-accordion@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-Rx3t40v5/9s+2qHBtr8+NYIiEFDs5mXlTmvFdH3IziHcxrQzj8XBzu3oDFQgNAju6Ow2V341DG5figOlXmfACw==",
+  "_location": "/ng-dynamic-accordion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ng-dynamic-accordion",
+    "name": "ng-dynamic-accordion",
+    "escapedName": "ng-dynamic-accordion",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-dynamic-accordion/-/ng-dynamic-accordion-1.0.5.tgz",
+  "_shasum": "fb007c9698a7fb8a6de31ba354d8e80be1553bb7",
+  "_spec": "ng-dynamic-accordion",
+  "_where": "D:\\Angular 6\\billing",
+  "author": {
+    "name": "Santosh Choudhary"
+  },
+  "bugs": {
+    "url": "https://github.com/sc070896/ng-dynamic-accordion/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "It is nested accordion & also contains dynamic feature for handling accordion behaviours   ",
+  "homepage": "https://github.com/sc070896/ng-dynamic-accordion",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "angular 4",
+    "angular6"
+  ],
+  "license": "MIT",
+  "main": "bundles/accordion.umd.js",
+  "module": "index.js",
+  "name": "ng-dynamic-accordion",
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc070896/ng-dynamic-accordion.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.5"
+}

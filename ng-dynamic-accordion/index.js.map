@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,sCAAsC,CAAC;AACvE,OAAO,EAAE,iBAAiB,EAAE,MAAM,iDAAiD,CAAC","sourcesContent":["export { AccordionModule } from './src/app/accordion/accordion.module';\r\nexport { CollapseComponent } from './src/app/accordion/collapse/collapse.component';\r\n"]}
