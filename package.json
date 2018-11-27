@@ -1,0 +1,60 @@
+{
+  "_from": "angular-multi-single-dropdown@^2.0.5",
+  "_id": "angular-multi-single-dropdown@2.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-zS7bgbHbEqDRo112FnR2saRGvBCmdaVFb9AY0/r+Vi4LCAM+IxL4uAKgGmHwrKe4EhYZ8ty3leJLARMuzyUpGg==",
+  "_location": "/angular-multi-single-dropdown",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "angular-multi-single-dropdown@^2.0.5",
+    "name": "angular-multi-single-dropdown",
+    "escapedName": "angular-multi-single-dropdown",
+    "rawSpec": "^2.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-multi-single-dropdown/-/angular-multi-single-dropdown-2.0.5.tgz",
+  "_shasum": "5e8c91734a6208859042cd3f6136a1550b35c7b8",
+  "_spec": "angular-multi-single-dropdown@^2.0.5",
+  "_where": "D:\\Angular 6\\themes",
+  "author": {
+    "name": "Santosh Choudhary"
+  },
+  "bugs": {
+    "url": "https://github.com/sc070896/multi-select-drop-down/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "multi-select-dropdown": "sc070896/test#master",
+    "multi-select-dropdown": "0.0.2"
+  },
+  "deprecated": false,
+  "description": "Angular multiselect-singleSelect dropdown for web applications. Easy to integrate and use. It can be bind to any custom data source.",
+  "homepage": "https://github.com/sc070896/multi-select-drop-down",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "angular4"
+  ],
+  "license": "MIT",
+  "main": "bundles/amazing.umd.js",
+  "module": "index.js",
+  "name": "angular-multi-single-dropdown",
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc070896/multi-select-drop-down.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.5"
+}
