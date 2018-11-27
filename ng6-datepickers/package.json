@@ -1,0 +1,58 @@
+{
+  "_from": "ng6-datepickers",
+  "_id": "ng6-datepickers@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-Sm6soIROhTGpRllsXQED6hmoz053oyExV2i0a9PVvHFX95zpGXCl3jfdISp+mYlspfsKRe2ifJN7qEHve9ZI4Q==",
+  "_location": "/ng6-datepickers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ng6-datepickers",
+    "name": "ng6-datepickers",
+    "escapedName": "ng6-datepickers",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng6-datepickers/-/ng6-datepickers-1.0.3.tgz",
+  "_shasum": "29893d30dd316f8f9bbdb1164c161eeb2de4aac6",
+  "_spec": "ng6-datepickers",
+  "_where": "D:\\Angular 6\\billing",
+  "author": {
+    "name": "santosh"
+  },
+  "bugs": {
+    "url": "https://github.com/sc070896/datepickers/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "datepicker with multiple features",
+  "devDependencies": {},
+  "homepage": "https://github.com/sc070896/datepickers",
+  "keywords": [
+    "angular6",
+    "datepicker"
+  ],
+  "license": "MIT",
+  "main": "bundles/datepickers.umd.js",
+  "module": "index.js",
+  "name": "ng6-datepickers",
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc070896/datepickers.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.3"
+}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./src/app/datepickers/directive/mydatepicker.directive","export":["MydatepickerDirective"]},{"from":"./src/app/datepickers/datepickers.module","export":["DatepickersModule"]}]}]
